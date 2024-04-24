@@ -1,4 +1,4 @@
-# Art style classifier CNN
+# Art style classifier using CNN
 
 ## Description
 Painting Art Style Classification using Convolutional Neural Network, 
